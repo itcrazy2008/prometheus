@@ -8,7 +8,7 @@
 		<version>2.1.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.zznode</groupId>
+	<groupId>com.itcrazy2008</groupId>
 	<artifactId>prometheus</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot_prometheus</name>
